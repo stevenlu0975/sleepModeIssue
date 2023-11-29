@@ -1,0 +1,13 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.portWin": "COM12",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "mysleep.h": "c",
+        "esp32_s3_lcd_ev_board.h": "c",
+        "stdio.h": "c"
+    }
+}
